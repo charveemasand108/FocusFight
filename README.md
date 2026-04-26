@@ -28,8 +28,13 @@ FocusFight is an iOS app that turns deep work into a multiplayer battle. You and
 
 ---
 <p>
-  <img src="https://github.com/charveemasand108/FocusFight/blob/53766844ec1533efab0c098ad9ccf99ceb3ce7ba/simulator_screenshot_DAC536FF-8B89-4058-81AD-B4A2600F4D90.png?raw=true" width="250" /> <img src="https://github.com/charveemasand108/FocusFight/blob/10f1c23775cf89e555534f7902dd2ff37137a3d8/simulator_screenshot_739CC5C7-F753-4B19-8F22-9E722B616DF2.png?raw=true" width="250" />
+  <img src="https://github.com/charveemasand108/FocusFight/blob/53766844ec1533efab0c098ad9ccf99ceb3ce7ba/simulator_screenshot_DAC536FF-8B89-4058-81AD-B4A2600F4D90.png?raw=true" width="250" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/charveemasand108/FocusFight/blob/10f1c23775cf89e555534f7902dd2ff37137a3d8/simulator_screenshot_739CC5C7-F753-4B19-8F22-9E722B616DF2.png?raw=true" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/charveemasand108/FocusFight/blob/d384b6e9e0c808b118dc63d3cd3c4ab316fd4ad0/simulator_screenshot_814479DD-4200-4A5B-89F2-1A670D825B62.png?raw=true" width="250" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/charveemasand108/FocusFight/blob/81ad24ed79e69617530d39d6e35e855bdd875716/simulator_screenshot_739CC5C7-F753-4B19-8F22-9E722B616DF2.png?raw=true" width="250" />
 </p>
 
 ## 🏗️ Architecture
