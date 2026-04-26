@@ -27,6 +27,7 @@ FocusFight is an iOS app that turns deep work into a multiplayer battle. You and
 - 🌑 **Dark mode native** — built for the aesthetic
 
 ---
+<img src="simulator_screenshot_739CC5C7-F753-4B19-8F22-9E722B616DF2.png" width="300" />
 
 ## 🏗️ Architecture
 
@@ -90,7 +91,6 @@ FocusFight was built around one insight: **social pressure is a better productiv
 Think Squid Game, but for procrastinators.
 
 ---
-<img src="simulator_screenshot_739CC5C7-F753-4B19-8F22-9E722B616DF2.png" width="300" />
 
 ## 👩‍💻 Author
 
