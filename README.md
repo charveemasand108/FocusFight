@@ -90,6 +90,7 @@ FocusFight was built around one insight: **social pressure is a better productiv
 Think Squid Game, but for procrastinators.
 
 ---
+![image alt](https://github.com/charveemasand108/FocusFight/blob/81ad24ed79e69617530d39d6e35e855bdd875716/simulator_screenshot_739CC5C7-F753-4B19-8F22-9E722B616DF2.png)
 
 ## 👩‍💻 Author
 
